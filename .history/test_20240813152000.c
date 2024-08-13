@@ -58,6 +58,6 @@ int main(void){
     float a = 123.456f;
 
     i = (int) a;
-    printf("%d, %7.2f", i, a);
+    printf("%d, %10.2f", i, a);
     return 0;
 }
