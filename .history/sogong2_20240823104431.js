@@ -1,8 +1,5 @@
 class Person {
-    //Private fields (캡슐화) person으로 바로 접근못하게 하는 것.
-    //getter setter를 통해서 불러들어야함
-    //제한자 #. person.#name으로 바로 못불러옴. #을 빼면 퍼블릭. 접근가능해짐.
-    
+    //Private fields (캡슐화) person으로 바로 접근못하게 하는 것. person.#name으로 바로 못불러옴.
     #name;
     #age
 
