@@ -1,7 +1,13 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "newproject_2e518a31"
+    },
     {
       "name": "Debug",
       "type": "cppdbg",
